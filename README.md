@@ -50,7 +50,8 @@ A feature-rich Discord music bot that allows users to play music from YouTube in
 1. Clone the repository
 2. Install required dependencies
 3. Set up your Discord bot token in `.env` file
-4. Run the bot using `python main.py`
+4. Add ffmpeg.exe to the ffmpeg directory according to file structure.
+5. Run the bot using `python main.py`
 
 ## License
 
